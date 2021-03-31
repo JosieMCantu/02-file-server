@@ -1,11 +1,12 @@
 # 02-file-server
 
 # design a solution (in english what do you need to do)
-- get a copy of yesterdays repo into a new repo (fork, branch, fresh)
+- get a copy of yesterdays repo into a new repo (fork vs branch vsfresh)
 - get the server to start
 - import fs
 - write the fs.reaFile function w socket
 - try to get it to work
+- research what fs does and how to redirect files
 
 # break down the problem into smaller chunks
 
